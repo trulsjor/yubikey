@@ -7,6 +7,7 @@
 - 2FA
 - Og mye mer
 
+
 ## Setup
 🤔 Generere masterkey på eller av nøkkelen?
 
