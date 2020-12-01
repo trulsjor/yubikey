@@ -50,8 +50,8 @@ $ gpg --change-pin
     │ File: .gnupg/gpg-agent.conf
 ────┼────────────────────────────────────────────────────
 1   │ pinentry-program /usr/local/bin/pinentry-mac
-2   │ default-cache-ttl 0
 ```
+Det er også her du kan sette ttl for caching av pin, se https://www.gnupg.org/documentation/manuals/gnupg/Agent-Options.html
 
 ### Generer RSA key
 * on key https://www.engineerbetter.com/blog/yubikey-ssh/#roca
