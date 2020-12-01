@@ -1,4 +1,4 @@
-# Yubikey teknisk demo
+# Yubikey teknisk demo 01.12.2020
 
 ![yubikey image](https://media.yubico.com/media/catalog/product/y/k/yk5c-hero-2020.png)
 
